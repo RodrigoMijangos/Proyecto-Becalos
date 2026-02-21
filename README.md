@@ -47,6 +47,6 @@ Se abrirá automáticamente en tu navegador predeterminado 🌐
 
 ---
 
-## 📎 Repositorio
+## 📎 Página desplegada en la web:
 
-🔗 https://github.com/LaCreamNo1/Proyecto-Becalos
+🔗 https://ulises-estrada.github.io/Proyecto-Becalos/
